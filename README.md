@@ -1,8 +1,8 @@
-## <h2> opa!, prazer! eu sou o Pietro! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+## <h2> prazer! eu sou o Pietro! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 </h2>
 
 - 🔭 Cursando Ciencias Da Computacao no Senac
-- 🌱 alguns dos meus interressese envolvem e area de dados, back-and e devops
+- 🌱 alguns dos meus interressese envolvem a area de dados, back-and e devops
 - 🤔 busco crescer e evoluir minhas habilidades dentro da area de t.i
 
 <div align="center">
