@@ -1,16 +1,17 @@
-## opa! prazer! eu sou o Pietro!
+## opa! prazer! eu sou o Pietro!  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+</h2>
 
 - 🔭 Cursando Ciencias Da Computacao no Senac
 - 🌱 interresse na area de dados e devops
 - 🤔 busco crescer e evoluir minhas habilidades dentro da t.i
 
 <div align="center">
-  <a href="https://github.com/pezbittencourt">
+  <a href="https://github.com/pietromaimone">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietromaimone&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietromaimone&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
   </a>
 </div>
-
+<div align="center">
   <div style="display: inline_block"><br>
   <img align="center" alt="pietro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="pietro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +20,7 @@
   <img align="center" alt="pietro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="pietro-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
-  
+  </div>
   ##
  
 <div> 
