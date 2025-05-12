@@ -1,10 +1,10 @@
 ## <h2> opa! prazer! eu sou o Pietro!. <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 </h2>
-
+<div align="center">
 - 🔭 Cursando Ciencias Da Computacao no Senac
 - 🌱 interresse na area de dados e devops
 - 🤔 busco crescer e evoluir minhas habilidades dentro da t.i
-
+</div>
 <div align="center">
   <a href="https://github.com/pietromaimone">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietromaimone&layout=compact&langs_count=7&theme=dracula"/>
