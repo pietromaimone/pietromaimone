@@ -1,4 +1,4 @@
-## <h2> opa! prazer! eu sou o Pietro!  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+## <h2> opa! prazer! eu sou o Pietro!. <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 </h2>
 
 - 🔭 Cursando Ciencias Da Computacao no Senac
@@ -21,7 +21,7 @@
  <img align="center" alt="pietro-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
   </div>
-  ##
+
  
 <div align="center">
 <div> 
