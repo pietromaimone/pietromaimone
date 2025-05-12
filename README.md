@@ -2,8 +2,8 @@
 </h2>
 
 - 🔭 Cursando Ciencias Da Computacao no Senac
-- 🌱 interresse na area de dados e devops
-- 🤔 busco crescer e evoluir minhas habilidades dentro da t.i
+- 🌱 alguns dos meus interressese envolvem e area de dados, back-and e devops
+- 🤔 busco crescer e evoluir minhas habilidades dentro da area de t.i
 
 <div align="center">
   <a href="https://github.com/pietromaimone">
