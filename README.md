@@ -2,7 +2,7 @@
 </h2>
 
 - 🔭 Cursando Ciencias Da Computacao no Senac
-- 🌱 alguns dos meus interressese envolvem a area de dados, back-and e devops
+- 🌱 alguns dos meus interresses envolvem a area de dados, back-end e devops
 - 🤔 busco crescer e evoluir minhas habilidades dentro da area de t.i
 
 <div align="center">
